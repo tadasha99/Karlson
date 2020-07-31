@@ -1,0 +1,10 @@
+Created place Room at ( 0.0, 0.0 )
+Created person Kid
+Created person Karl
+Added new object Kid
+Added new object Karl
+Karl saw Kid and RISSOLE
+Karl clicked the button
+ENGINE worked and Karl flew
+Karl took RISSOLE
+Karl started chew RISSOLE
